@@ -17,3 +17,13 @@ Este projeto consiste em uma planilha Excel que simula uma distribuição de inv
 - Lógica de negócios baseada em regras (na aba TB_Apoio)
 
 ## 📌 Desafio proposto pela DIO
+
+## 🖼️ Demonstração da Planilha
+
+### Tela principal do simulador  
+![Tela principal do simulador](./demo_appinvestmento_dio.jpg)
+
+---
+
+### Tabela de apoio com regras  
+![Tabela de apoio com regras](./demo_planilha_tab_apio.jpg)
