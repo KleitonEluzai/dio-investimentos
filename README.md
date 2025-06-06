@@ -1,4 +1,4 @@
-echo "# Simulador de Investimentos - Desafio DIO
+Simulador de Investimentos - Desafio DIO
 
 Este projeto consiste em uma planilha Excel que simula uma distribuição de investimentos com base no perfil do investidor.
 
